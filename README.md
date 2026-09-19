@@ -82,4 +82,4 @@ experiment. Exact reproduction on a different GPU or library version is not guar
   code of NCCU Deep Learning Programming Assignment #2, of which this project is an independent extension. The
   coursework itself is not included.
 - The papers listed in [`related_work/papers.md`](related_work/papers.md) are not redistributed; fetch them from arXiv.
-- No license has been chosen for this repository yet.
+- Released under the MIT License; see [`LICENSE`](LICENSE). The adapted course helper functions noted above are not claimed as original work.
