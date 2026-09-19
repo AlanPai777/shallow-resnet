@@ -37,7 +37,6 @@ results/                   raw per-run results (JSON) and the figures the notebo
   pilot_superseded/                       an abandoned early pilot; not used in any analysis
 analysis/                  stats.py and make_figures.py: recompute every statistic and figure from results/
 related_work/              literature notes and the list of papers used
-docs/                      a personal narrative of how the project developed (Chinese)
 archive/                   an earlier table-generation script; superseded, kept for the record
 ```
 
