@@ -1,0 +1,9 @@
+# analysis/stats.py and analysis/make_figures.py
+numpy
+matplotlib
+
+# notebooks/BN_Residual_Depth_Ablation.ipynb (Colab already provides these; needed only for a local run)
+torch
+torchvision
+tqdm
+jupyter
